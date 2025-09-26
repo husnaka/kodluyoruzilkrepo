@@ -6,9 +6,9 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Kodluyoruz Front-End Eğitimind
 # Insallation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-'''bash
+```bash
 git clone https://github.com/husnaka/kodluyoruzilkrepo.git
-'''
+```
 
 # Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
